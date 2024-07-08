@@ -1,0 +1,36 @@
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.exe.config
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.exe
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.pdb
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csprojAssemblyReference.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.Properties.Resources.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.GenerateResource.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.exe
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.pdb
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.index.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\MySql.Data.dll
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\MySql.Data.xml
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.CopyComplete
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.agregar_descuento.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyectos en VISUAL ESTUDIO\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.existencia_productos.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.exe.config
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.exe
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\proyecto-bausi-csharp.pdb
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\MySql.Data.dll
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\bin\Debug\MySql.Data.xml
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csprojAssemblyReference.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.agregar_descuento.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.existencia_productos.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.index.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.Properties.Resources.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.GenerateResource.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.csproj.CopyComplete
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.exe
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto-bausi-csharp.pdb
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.ventas.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.ingreso_bausi.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.agregar_producto.resources
+C:\Users\DELL CORE I3\Documents\JAIRO BERDUGO\proyecto-bausi-csharp\proyecto-bausi-csharp\proyecto-bausi-csharp\obj\Debug\proyecto_bausi_csharp.eliminar_producto.resources
